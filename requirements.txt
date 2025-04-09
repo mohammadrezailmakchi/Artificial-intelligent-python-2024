@@ -1,0 +1,16 @@
+pygetwindow==0.0.9
+customtkinter==5.2.2
+Pillow==10.3.0
+openai==1.72.0
+python-dotenv==1.0.1
+requests==2.31.0
+sounddevice==0.4.6
+soundfile==0.12.1
+numpy==1.26.4
+AwesomeTkinter==2021.11.8
+pygame==2.5.2
+CTkMessagebox==2.5
+pywinstyles==1.8
+CTkToolTip==0.8
+pydub==0.25.1
+tkinterdnd2==0.3.0
