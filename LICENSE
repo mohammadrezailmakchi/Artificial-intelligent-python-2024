@@ -1,6 +1,7 @@
-MIT License
+MIT License / مجوز MIT
 
 Copyright (c) 2025 Mohammadreza Ilmakchi
+حق نشر (c) ۲۰۲۵ محمدرضا ایلمکچی
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +10,18 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
+بدین‌وسیله به هر فردی که یک نسخه از این نرم‌افزار و مستندات همراه آن را دریافت کند، 
+به صورت رایگان اجازه داده می‌شود که بدون هیچ محدودیتی، 
+در نرم‌افزار استفاده، کپی، ویرایش، ادغام، انتشار، توزیع، صدور مجوز فرعی 
+و/یا فروش نسخه‌هایی از نرم‌افزار را داشته باشد، 
+و همچنین اجازه دهد دیگران نیز این کار را انجام دهند؛
+به شرط آن‌که شرایط زیر رعایت شود:
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+یادداشت کپی‌رایت بالا و این متن مجوز باید در تمام نسخه‌ها 
+یا بخش‌های قابل‌توجهی از نرم‌افزار درج شود.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +30,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+این نرم‌افزار «همان‌گونه که هست» ارائه می‌شود، بدون هیچ‌گونه ضمانت صریح یا ضمنی؛ 
+از جمله، اما نه محدود به، ضمانت‌های تجاری بودن، تناسب با هدف خاص 
+و عدم نقض حقوق دیگران. در هیچ حالتی نویسندگان یا دارندگان حق نشر 
+در قبال هرگونه ادعا، خسارت یا مسئولیت دیگر، چه در اقدام قراردادی، 
+چه در اقدام غیرقراردادی یا به هر شکل دیگر، که از استفاده یا ارتباط 
+با نرم‌افزار یا دیگر تعاملات با آن ناشی شود، مسئول نخواهند بود.
