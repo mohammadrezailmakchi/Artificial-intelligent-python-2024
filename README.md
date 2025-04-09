@@ -1,5 +1,5 @@
 # 🧠 Artificial Intelligent – Python – 2024
-
+📄 [نسخه فارسی README_FA.md](./README_FA.md)
 > A historical AI desktop assistant project built in early 2024 as a showcase for the Khwarizmi Festival — demonstrating my knowledge of APIs, GUI design, and Python programming at the time.
 
 ---
