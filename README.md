@@ -1,6 +1,9 @@
 # 🧠 Artificial Intelligent – Python – 2024
-📄 [نسخه فارسی README_FA.md](./README_FA.md)
+
+📄 [نسخه فارسی README_FA.md](./README_FA.md)  
 > A historical AI desktop assistant project built in early 2024 as a showcase for the Khwarizmi Festival — demonstrating my knowledge of APIs, GUI design, and Python programming at the time.
+
+> 📝 Note: The HTML templates in the `docs/` folder were originally designed by [HTML5 UP](https://html5up.net/)
 
 ---
 
@@ -112,7 +115,8 @@ Still, this code serves as:
 
 - Developed by **Mohammadreza Ilmakchi**  
 - Special thanks to my friend who helped with code comments  
-- Powered by open-source libraries and the OpenAI API
+- Powered by open-source libraries and the OpenAI API  
+- HTML templates from [HTML5 UP](https://html5up.net/)
 
 ---
 
